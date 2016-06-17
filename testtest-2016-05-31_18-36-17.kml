@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="feat_441">
+        <Style id="stylesel_220">
+            <LineStyle id="substyle_220">
+                <color>ffff0000</color>
+                <colorMode>normal</colorMode>
+                <width>3</width>
+            </LineStyle>
+        </Style>
+        <Placemark id="feat_442">
+            <name>testtest-2016-05-31_18-36-17</name>
+            <styleUrl>#stylesel_220</styleUrl>
+            <LineString id="geom_220">
+                <coordinates>-122.20621903,37.4178323097,0.0 -122.206219023,37.4178322516,0.0 -122.206219018,37.4178321934,0.0 -122.206218999,37.4178321416,0.0 -122.206218984,37.4178320885,0.0 -122.206218961,37.4178320597,0.0 -122.206218923,37.4178320391,0.0 -122.206218873,37.4178320094,0.0 -122.20621882,37.4178319839,0.0 -122.206218791,37.4178319772,0.0 -122.206218767,37.4178319805,0.0 -122.206218735,37.4178319787,0.0 -122.206218694,37.4178319826,0.0</coordinates>
+            </LineString>
+        </Placemark>
+    </Document>
+</kml>

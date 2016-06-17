@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="feat_425">
+        <Style id="stylesel_212">
+            <LineStyle id="substyle_212">
+                <color>ffff0000</color>
+                <colorMode>normal</colorMode>
+                <width>3</width>
+            </LineStyle>
+        </Style>
+        <Placemark id="feat_426">
+            <name>20160501T191024-kitt_01-53273c6f-0000</name>
+            <styleUrl>#stylesel_212</styleUrl>
+            <LineString id="geom_212">
+                <coordinates>-121.772871525,36.6746285916,0.0</coordinates>
+            </LineString>
+        </Placemark>
+    </Document>
+</kml>
